@@ -13,7 +13,7 @@ body {
 
 /* styles here */
 header {
-    background-color: #333;
+    background-color: #009cd9;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -37,6 +37,10 @@ nav a {
     font-weight: bold;
 }
 
+.navbar a:hover{
+    background-color: #3c3b3b;
+}
+
 .hero {
     text-align: center;
     padding: 50px;
@@ -53,3 +57,41 @@ nav a {
 div {
    color: gray;
 }
+
+body {
+    margin: 0%;
+
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    border: 2px solid #333;
+    height: 350px;
+    margin: 20;
+    background-color: #eee;
+    border-radius: 20px;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    border: 2px solid #333;
+    height: 350px;
+    margin: 0;
+    backdrop-filter: #eee;
+    border-radius: 20px;
+}
+
+
+.footer {
+    
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+  body {
+    background-color: rgb(255, 255, 255);
+  }
