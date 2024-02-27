@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Teko:wght@300..700&display=swap');
 /* Reset some default styles */
 body,
 ul,
@@ -22,6 +23,7 @@ header {
 }
 
 .logo {
+    font-family: "Teko", sans-serif;
     font-size: 24px;
     font-weight: bold;
 }
@@ -103,5 +105,14 @@ footer {
     color: #fff;
     padding: 20px;
     text-align: center;
+}
+
+p {
+    font-family: "Oswald", sans-serif;
+
+}
+
+h2 {
+    font-family: "Teko", sans-serif;
 }
 
