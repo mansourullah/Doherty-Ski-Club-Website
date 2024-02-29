@@ -11,7 +11,7 @@ li {
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
-    background-color: #f7f7f7;
+    background-color: #ff9900;
 }
 
 /* styles here */
@@ -109,10 +109,10 @@ footer {
 
 p {
     font-family: "Oswald", sans-serif;
+    font-size: 21px;
 
 }
 
 h2 {
     font-family: "Teko", sans-serif;
 }
-
