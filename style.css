@@ -116,3 +116,7 @@ p {
 h2 {
     font-family: "Teko", sans-serif;
 }
+
+img {
+    width: 500px;
+}
